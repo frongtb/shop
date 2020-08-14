@@ -33,4 +33,3 @@ int main()
 #define _CRT_SECURE_NO_WARNINGS
 }
 /*for shop that sell Alcohol and Cigarette*/
-/*ร้านแอลกอฮอล์*/
